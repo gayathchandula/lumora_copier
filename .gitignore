@@ -1,0 +1,18 @@
+# Server
+server/node_modules/
+server/data/
+server/public/downloads/*.exe
+
+# Python
+__pycache__/
+*.pyc
+client_gui/build/
+client_gui/dist/
+client_gui/*.spec
+admin_gui/build/
+admin_gui/dist/
+admin_gui/*.spec
+
+# OS
+.DS_Store
+Thumbs.db
