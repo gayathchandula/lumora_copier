@@ -2,7 +2,7 @@
 // matching `download_url`) every time you build and ship a new client app.
 // This is what powers the client app's "Restart to Update" banner.
 module.exports = {
-  version: '1.0.5',
-  download_url: '/downloads/LumoraScalpClient.exe',
+  version: '1.0.6',
+  download_url: 'https://github.com/gayathchandula/nyao_copier/releases/download/1.0.6/LumoraScalpClient.exe',
   notes: 'Fixes update-restart security-validation error.',
 };

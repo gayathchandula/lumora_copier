@@ -63,7 +63,7 @@ APP_TITLE = "Lumora Scalping — Client"
 # /api/client-version tells the app what the latest is, and this is what it
 # compares against. Keep in sync with the version you set in
 # server/client_version.js when you publish a build.
-CLIENT_VERSION = "1.0.5"
+CLIENT_VERSION = "1.0.6"
 
 
 def _parse_version(v):
@@ -111,7 +111,7 @@ def _finish_pending_update():
 # plain "ngrok http" URL it stays the same across tunnel restarts — just make
 # sure the tunnel is always started as:
 #   ngrok http --url=https://clamor-alienable-scouts.ngrok-free.dev 4000
-SERVER_URL = "https://clamor-alienable-scouts.ngrok-free.dev"
+SERVER_URL = "https://lumora-copy-trading.onrender.com"
 
 def _resource_path(*parts):
     # Frozen (PyInstaller onefile): --add-data "..\assets;assets" places the

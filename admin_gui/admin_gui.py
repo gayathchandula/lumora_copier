@@ -26,7 +26,7 @@ APP_TITLE = "Lumora Scalping — Admin"
 # Hardcoded so the admin doesn't have to re-enter these every launch. Keep
 # this in sync with the server's actual ADMIN_KEY and the tunnel's current
 # domain — see the matching SERVER_URL constant in client_gui/client_app.py.
-SERVER_URL = "https://clamor-alienable-scouts.ngrok-free.dev"
+SERVER_URL = "https://lumora-copy-trading.onrender.com"
 ADMIN_KEY = "fd58ed032d16bc0e129676c90193bca0f5315c759acbf67e"
 
 COLORS = {
